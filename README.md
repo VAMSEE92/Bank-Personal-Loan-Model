@@ -12,7 +12,7 @@ loans. So that the bank can easily direct their services to the potential custom
 ### Details
 In this project I worked on exploring and understanding the insights of the data to predict wether a customer buys personal loan or not.
 ##### 
-There are three mejor steps in this project:
+There are three major steps in this project:
 ##### 
 Data Preprocessing and Exploratory data analysis(EDA) to understand the trends people's financial status
 ##### 
